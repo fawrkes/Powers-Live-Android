@@ -23,7 +23,7 @@ import edu.mit.powers.content.cuelist.CueList;
 import edu.mit.powers.content.cuelist.CueListLocation;
 
 /**
- * Created by kevin on 1/6/14.
+ * Created by Garrett on 1/6/14.
  *
  */
 public class ContentManager

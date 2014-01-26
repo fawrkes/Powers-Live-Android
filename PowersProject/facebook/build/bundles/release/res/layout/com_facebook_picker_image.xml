@@ -22,4 +22,4 @@
     android:layout_height="50dip"
     android:layout_gravity="center_vertical"
     android:src="@drawable/com_facebook_profile_default_icon" />
-<!-- From: file:/Users/garrettparrish/Documents/Garrett/Projects/Media%20Lab/Death%20and%20the%20Powers/datpandroid/PowersProject/facebook/res/layout/com_facebook_picker_image.xml -->
+<!-- From: file:/Users/garrettparrish/Documents/Garrett/Projects/Media%20Lab/Death%20and%20the%20Powers/Powers-Live-Android%20(GitHub)/PowersProject/facebook/res/layout/com_facebook_picker_image.xml -->

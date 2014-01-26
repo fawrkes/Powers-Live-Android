@@ -12,7 +12,7 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
---><!-- From: file:/Users/garrettparrish/Documents/Garrett/Projects/Media%20Lab/Death%20and%20the%20Powers/datpandroid/PowersProject/facebook/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.facebook.android">
+--><!-- From: file:/Users/garrettparrish/Documents/Garrett/Projects/Media%20Lab/Death%20and%20the%20Powers/Powers-Live-Android%20(GitHub)/PowersProject/facebook/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.facebook.android">
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="19"/>
     <application/>
 </manifest>

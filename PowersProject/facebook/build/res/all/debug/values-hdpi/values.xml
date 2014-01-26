@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/garrettparrish/Documents/Garrett/Projects/Media%20Lab/Death%20and%20the%20Powers/datpandroid/PowersProject/facebook/res/values-hdpi/dimens.xml -->
+    <!-- From: file:/Users/garrettparrish/Documents/Garrett/Projects/Media%20Lab/Death%20and%20the%20Powers/Powers-Live-Android%20(GitHub)/PowersProject/facebook/res/values-hdpi/dimens.xml -->
     <eat-comment />
 
     <dimen name="com_facebook_picker_divider_width">1px</dimen>

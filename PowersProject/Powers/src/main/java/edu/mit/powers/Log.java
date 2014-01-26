@@ -3,7 +3,7 @@ package edu.mit.powers;
 import java.util.IllegalFormatConversionException;
 
 /**
- * Created by kevin on 1/9/14.
+ * Created by Garrett on 1/9/14.
  *
  */
 public class Log

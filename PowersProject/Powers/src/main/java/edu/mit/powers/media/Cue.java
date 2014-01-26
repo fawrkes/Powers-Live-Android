@@ -6,7 +6,7 @@ import org.json.JSONObject;
 import edu.mit.powers.Log;
 
 /**
- * Created by kevin on 1/20/14.
+ * Created by Garrett on 1/20/14.
  *
  */
 public class Cue

@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="/Users/garrettparrish/Documents/Garrett/Projects/Media Lab/Death and the Powers/datpandroid/PowersProject/facebook/src/main/assets" />
+        <source path="/Users/garrettparrish/Documents/Garrett/Projects/Media Lab/Death and the Powers/Powers-Live-Android (GitHub)/PowersProject/facebook/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/garrettparrish/Documents/Garrett/Projects/Media Lab/Death and the Powers/datpandroid/PowersProject/facebook/src/debug/assets" />
+        <source path="/Users/garrettparrish/Documents/Garrett/Projects/Media Lab/Death and the Powers/Powers-Live-Android (GitHub)/PowersProject/facebook/src/debug/assets" />
     </dataSet>
 
 </merger>

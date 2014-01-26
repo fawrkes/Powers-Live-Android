@@ -61,4 +61,4 @@
             android:layout_marginRight="10dip"
             android:layout_toLeftOf="@id/com_facebook_picker_divider"/>
 </RelativeLayout>
-<!-- From: file:/Users/garrettparrish/Documents/Garrett/Projects/Media%20Lab/Death%20and%20the%20Powers/datpandroid/PowersProject/facebook/res/layout/com_facebook_picker_title_bar.xml -->
+<!-- From: file:/Users/garrettparrish/Documents/Garrett/Projects/Media%20Lab/Death%20and%20the%20Powers/Powers-Live-Android%20(GitHub)/PowersProject/facebook/res/layout/com_facebook_picker_title_bar.xml -->

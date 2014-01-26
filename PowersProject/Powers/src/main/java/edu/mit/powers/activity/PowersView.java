@@ -14,7 +14,7 @@ import edu.mit.powers.ApplicationDriver;
 import edu.mit.powers.Log;
 
 /**
- * Created by kevin on 1/7/14.
+ * Created by Garrett on 1/7/14.
  *
  */
 public abstract class PowersView extends FragmentActivity

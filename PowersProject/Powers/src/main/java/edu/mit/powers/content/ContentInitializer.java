@@ -3,7 +3,7 @@ package edu.mit.powers.content;
 import android.os.AsyncTask;
 
 /**
- * Created by kevin on 1/8/14.
+ * Created by Garrett on 1/8/14.
  *
  */
 public class ContentInitializer extends AsyncTask<Void, Void, String>

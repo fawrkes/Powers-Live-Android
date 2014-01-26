@@ -16,7 +16,7 @@ import edu.mit.powers.Log;
 import edu.mit.powers.activity.PowersView;
 
 /**
- * Created by kevin on 1/7/14.
+ * Created by Garrett on 1/7/14.
  *
  */
 public class Connectivity extends BroadcastReceiver

@@ -12,7 +12,7 @@ import edu.mit.powers.Log;
 import edu.mit.powers.media.Cue;
 
 /**
- * Created by kevin on 1/9/14.
+ * Created by Garrett on 1/9/14.
  *
  */
 public class CueList

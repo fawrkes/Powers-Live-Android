@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 
 /**
- * Created by kevin on 1/7/14.
+ * Created by Garrett on 1/7/14.
  *
  */
 public class Settings

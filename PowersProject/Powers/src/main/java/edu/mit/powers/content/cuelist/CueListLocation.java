@@ -4,7 +4,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- * Created by kevin on 1/11/14.
+ * Created by Garrett on 1/11/14.
  *
  */
 public class CueListLocation

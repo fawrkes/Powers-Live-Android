@@ -7,7 +7,7 @@ import java.util.UUID;
 import edu.mit.powers.ApplicationDriver;
 
 /**
- * Created by kevin on 1/6/14.
+ * Created by Garrett on 1/6/14.
  *
  */
 public class Device

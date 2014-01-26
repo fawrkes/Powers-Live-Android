@@ -25,4 +25,4 @@
     <item android:state_focused="true"                                                             android:drawable="@drawable/com_facebook_picker_list_focused" />
 
 </selector>
-<!-- From: file:/Users/garrettparrish/Documents/Garrett/Projects/Media%20Lab/Death%20and%20the%20Powers/datpandroid/PowersProject/facebook/res/drawable/com_facebook_picker_list_selector.xml -->
+<!-- From: file:/Users/garrettparrish/Documents/Garrett/Projects/Media%20Lab/Death%20and%20the%20Powers/Powers-Live-Android%20(GitHub)/PowersProject/facebook/res/drawable/com_facebook_picker_list_selector.xml -->

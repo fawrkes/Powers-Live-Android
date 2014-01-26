@@ -1,0 +1,10 @@
+{
+    "address": "/content_version",
+    "arguments": {
+        "cue_list": "http://nicholas.media.mit.edu/a/data/full_show_app_",
+        "holding_screen": "false",
+        "venue_wifi": "false",
+        "version": 15,
+        "web_view": "false"
+    }
+}

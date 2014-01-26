@@ -1,0 +1,45 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/containeri"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.mit.powers.activity.WifiActivity"
+    tools:ignore="MergeRootFrame"
+    android:background="@drawable/text_bg">
+
+    <TextView
+        style="@style/StandardTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/wifi_message"
+        android:id="@+id/wifiMessage"
+        android:paddingLeft="8pt"
+        android:paddingRight="8pt"
+        android:paddingTop="20pt"
+        android:layout_gravity="center_horizontal|top" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="110dp"
+        android:text="@string/wifi_continue"
+        android:id="@+id/wifiContinueButton"
+        android:textAlignment="center"
+        android:enabled="true"
+        android:textColor="@menu/standard_button"
+        android:background="@android:color/transparent"
+        android:layout_gravity="center_horizontal|bottom" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:text="@string/start_over"
+        android:id="@+id/wifiStartOver"
+        android:textAlignment="center"
+        android:enabled="true"
+        android:textColor="@menu/standard_button"
+        android:background="@android:color/transparent"
+        android:layout_gravity="center_horizontal|bottom" />
+
+</FrameLayout>

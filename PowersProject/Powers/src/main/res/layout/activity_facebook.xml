@@ -1,0 +1,58 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.mit.powers.activity.FacebookActvity"
+    tools:ignore="MergeRootFrame"
+    android:background="@drawable/text_bg">
+
+    <TextView
+        style="@style/StandardTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/facebook_message"
+        android:id="@+id/facebookMessage"
+        android:paddingLeft="8pt"
+        android:paddingRight="8pt"
+        android:paddingTop="20pt"
+        android:layout_gravity="center_horizontal|top" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Skip"
+        android:id="@+id/facebookSkip"
+        android:layout_gravity="center_horizontal|bottom"
+        android:textColor="@menu/standard_button"
+        android:background="@android:color/transparent"
+        android:layout_marginBottom="90dp"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/start_over"
+        android:id="@+id/facebookStartOver"
+        android:layout_gravity="center_horizontal|bottom"
+        android:textColor="@menu/standard_button"
+        android:background="@android:color/transparent"
+        android:layout_marginBottom="30dp"
+        />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar"
+        android:layout_gravity="center"
+        android:visibility="invisible" />
+
+    <fragment android:name="edu.mit.powers.activity.FacebookFragment"
+        android:id="@+id/facebookFragment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+
+
+</FrameLayout>

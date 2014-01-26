@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Powers Live</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_wifi">WifiActivity</string>
+    <string name="title_activity_facebook_actvity">FacebookActvity</string>
+    <string name="title_activity_production_content_download">ProductionContentDownloadActivity</string>
+    <string name="title_activity_holding_screen">HoldingScreenActivity</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_welcome_and_info">WelcomeAndInfoActivity</string>
+    <string name="skip">Skip</string>
+    <string name="hello_world">Hello</string>
+    <string name="welcome_message">You must choose the venue where you will be viewing the Death and the Powers Global Simulcast on February 16, 2014, and then click Submit/Continue. (required)</string>
+    <string name="welcome_continue">Submit / Continue</string>
+    <string name="wifi_message">You must choose the venue where you will be viewing the Death and the Powers Global Simulcast on February 16, 2014, and then click Submit/Continue. (required)</string>
+    <string name="wifi_continue">Continue / I\'m Connected</string>
+    <string name="facebook_message">Enter into The System by logging in with Facebook. You will not receive any Facebook notifications, and nothing will be posted to your Wall. Your likeness may be incorporated into the performance.</string>
+    <string name="facebook_not_logged_in">You\'re not logged in!</string>
+    <string name="facebook_logged_in">You\'re logged in as:</string>
+    <string name="facebook_name">Facebook User Name</string>
+    <string name="production_content_message">We’re downloading the latest Death and the Powers content for your device.</string>
+    <string name="holding_message">Holding</string>
+
+    <string name="start_over">Start Over</string>
+
+    <string name="default_encoding">text/plain</string>
+    <string name="title_activity_video">Video Activity</string>
+
+    <string name="join_wifi">You must join a Wi-Fi network with Internet, and then click Continue / I’m Connected.</string>
+    <string name="join_specific_wifi">Connect to the "%s" network to begin your journey into The System.</string>
+
+    <string name="socket_error_title">Can\'t connect to Powers Live.</string>
+    <string name="socket_error_body">If you are on a non-cellular device, please connect to a Wi-Fi network with Internet access.</string>
+    <string name="wrong_specific_wifi_title">Venue Wi-Fi Access Required</string>
+    <string name="wrong_specific_wifi_message">Please connect to the Wi-Fi network provided by the venue, or ask an usher for help connecting your device.</string>
+    <string name="wrong_wifi_title">Wi-Fi Access Required</string>
+    <string name="wrong_wifi_message">Please connect to a Wi-Fi network with Internet access to proceed.</string>
+    <string name="applicationID">588353581252361</string>
+</resources>

@@ -1,0 +1,43 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.mit.powers.activity.WelcomeAndInfoActivity"
+    tools:ignore="MergeRootFrame"
+    android:background="@drawable/text_bg">
+
+    <TextView
+        style="@style/StandardTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_message"
+        android:id="@+id/textView"
+        android:paddingLeft="8pt"
+        android:paddingRight="8pt"
+        android:paddingTop="20pt"
+        android:layout_gravity="center_horizontal|top" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="70dp"
+        android:text="@string/welcome_continue"
+        android:id="@+id/submitBtn"
+        android:textAlignment="center"
+        android:enabled="true"
+        android:textColor="@menu/standard_button"
+        android:background="@android:color/transparent"
+        android:layout_gravity="center_horizontal|bottom" />
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="180dp"
+        android:id="@+id/venuePicker"
+        android:layout_marginTop="38dp"
+        android:layout_gravity="center"
+        android:background="@android:color/transparent"
+        android:textAlignment="center"
+        android:listSelector="@android:color/darker_gray" />
+
+</FrameLayout>

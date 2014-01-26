@@ -1,0 +1,28 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.mit.powers.activity.ProductionContentDownloadActivity"
+    tools:ignore="MergeRootFrame"
+    android:background="@drawable/text_bg">
+
+    <TextView
+        style="@style/StandardTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/production_content_message"
+        android:id="@+id/productionContentDownloadMessage"
+        android:paddingLeft="8pt"
+        android:paddingRight="8pt"
+        android:paddingTop="20pt"
+        android:layout_gravity="center_horizontal|top" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="284dp"
+        android:layout_height="93dp"
+        android:id="@+id/productionContentProgressBar"
+        android:layout_gravity="center_horizontal|bottom" />
+
+</FrameLayout>
